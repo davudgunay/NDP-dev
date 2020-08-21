@@ -1,0 +1,24 @@
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.exe.config
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.exe
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.pdb
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csprojResolveAssemblyReference.cache
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form2.resources
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form3.resources
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csproj.GenerateResource.cache
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csproj.CoreCompileInputs.cache
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.exe
+C:\Users\gökhan\Desktop\C# PROJELERİ\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.pdb
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.exe.config
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.exe
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\bin\Debug\Personel_Takip.pdb
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form2.resources
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Form3.resources
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.exe
+C:\Users\casper\Desktop\Personel_Takip\Personel_Takip\obj\Debug\Personel_Takip.pdb
